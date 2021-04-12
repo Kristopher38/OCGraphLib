@@ -1,5 +1,5 @@
 local component = require("component")
-local sp = require("subpixel3")
+local sp = require("OCGraphLib/subpixel3")
 local unicode = require("unicode")
 local gpu = component.gpu
 
